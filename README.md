@@ -118,7 +118,7 @@
 		            <a href="https://github.com/NevilKiyada">
 		            <img src="https://avatars.githubusercontent.com/u/100549620?v=4" width="100px;"/>
 		            <br />
-		            <sub><b>  Yash Parmar  </b></sub>
+		            <sub><b>  Nevil Kiyada  </b></sub>
 		            </a>
 	    </td>
 	    </td>
